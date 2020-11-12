@@ -469,6 +469,7 @@ h1 {
 .container {
     width: 100%;
     text-align: center;
+    margin-top: 2rem;
 }
 .work {
     padding-bottom: 3rem;
