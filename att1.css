@@ -570,7 +570,7 @@ cursor: default;
 }
 .contact:before {
     content: "";
-    background: #404ebf;
+    background: #6fb5ff;
     position: absolute;
     width: 100%;
     height: 100%;
