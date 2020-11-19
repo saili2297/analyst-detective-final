@@ -1286,3 +1286,10 @@ ol, ul, dl {
 .link:hover {
     color: #407ebf;
 }
+.text-imp {
+    transition: transform .2s;
+    cursor: pointer;
+}
+.text-imp:hover {
+    transform: scale(1.2);
+}
