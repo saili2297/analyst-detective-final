@@ -441,3 +441,8 @@ input[type=text], select, textarea {
     border-radius: 5px;
     padding: 20px;
   }
+
+   .descrptn {
+      width: 100%;
+      height: auto;
+  }
