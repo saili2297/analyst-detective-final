@@ -1280,4 +1280,9 @@ ol, ul, dl {
     font-size: 20px;
     font-weight: 500;
 }
-
+.link {
+    color: black;
+}
+.link:hover {
+    color: #407ebf;
+}
